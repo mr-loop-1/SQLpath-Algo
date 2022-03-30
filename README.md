@@ -1,6 +1,6 @@
 # SQLpath_Algo
 
-> Original project is at https://github.com/mr-loop-1/projektDBMS. This repo is meant to be for easily inspecting the back-end algo and database of the 'Vice City Metro Rail' project.
+> This repo is meant to be for easily inspecting the back-end algo and database of the 'Vice City Metro Rail' project. Original Files are at https://github.com/mr-loop-1/ViceCity-MetroProject & https://github.com/mr-loop-1/projektDBMS. 
 
 **This is my path algorithm in MySQL and it's tailor-made for a 'specific' kind of map.**
 
