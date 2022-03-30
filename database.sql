@@ -55,3 +55,8 @@ CREATE TABLE half
 INSERT INTO half VALUES
 	('Forest_Hills','Sheep_Village'), ('Downtown','Govt_Office'), ('Vice_Port','Star_Town'), ('Vice_City_Beach','Old_City'), 
     ('Prawn_Island','Leaf_Links'), ('Little_Haiti','City_Scrap'), ('Ocean_Beach','New_Downtown'), ('Food_Street','Subways'), ('Grand_Library','Trench');
+
+
+CREATE TABLE details (Ticket INT, Fname VARCHAR(30), Lname VARCHAR(30), Phone VARCHAR(10), Booking DATE, starter VARCHAR(30), dest VARCHAR(30), PRIMARY KEY (Ticket));
+
+
